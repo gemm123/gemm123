@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Muchammad Gema Akbar, You can call me Gema
 
-### Github Statistic
+<!-- ### Github Statistic -->
 <p align="left">
 <a href="https://github.com/gemm123">
   <!--<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gemm123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
