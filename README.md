@@ -10,3 +10,4 @@ I'm a computer science student at IPB university. Very interested about Backend 
 ## 🛠 Skills
 Javascript, HTML, CSS, Golang, PHP
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemm123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
