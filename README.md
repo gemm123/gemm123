@@ -8,4 +8,4 @@ I'm a computer science student at IPB university. Very interested about Web Deve
 
 
 ## 🛠 Language
-Javascript, HTML, CSS, Golang, PHP
+Javascript, Go, PHP
