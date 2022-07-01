@@ -1,6 +1,6 @@
 
 # Hi, I'm Gema! 👋
-I'm a computer science student at IPB university. Very interested about Web Development and Cloud Computing.
+I'm a computer science student at IPB university. Very interested about Web Development and DevOps.
 
 
 ## 🔗 Links
