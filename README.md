@@ -1,8 +1,4 @@
 ### <div align="center">Hi i'm Gema, a Computer Science student at IPB University 👨‍💻 </div>  
-  
-
-- 🔭 I’m currently intern at Azura Labs as Backend Engineer and freelance at codepanda as Software Engineer  
-  
 
 - 🌱 I’m currently learning Web Development and DevOps  
   
