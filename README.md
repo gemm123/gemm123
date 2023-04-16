@@ -1,4 +1,4 @@
-### <div align="left">Hi i'm Muchammad Gema Akbar 👨‍💻 </div>  
+## <div align="left">Hi i'm Muchammad Gema Akbar 👨‍💻 </div>  
 
 
 <img alt="cloud" src="https://github.com/gemm123/gemm123/blob/main/cloud.gif" height="150" align="right" />
@@ -7,7 +7,6 @@
     I am a computer science student from IPB University. <br>
     Very insterested in Web Development, Cloud Computing, and DevOps.  
 </p>
-
 
 ### My Programming Language and Skill Set 
 
@@ -27,7 +26,7 @@
 <br/>  
 
 
-## Connect with me  
+### Connect with me  
 <a href="https://twitter.com/gemaakbar07" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -42,5 +41,5 @@
 <br/>  
 
 
-## Github Stats  
+### Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=gemm123&show_icons=true&count_private=true&hide_border=true" align="left" />  
