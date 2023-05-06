@@ -1,7 +1,7 @@
 ## <div align="left">Hi i'm Muchammad Gema Akbar 👨‍💻 </div>  
 
 
-<img alt="cloud" src="https://github.com/gemm123/gemm123/blob/main/cloud.gif" height="150" align="right" />
+<!-- <img alt="cloud" src="https://github.com/gemm123/gemm123/blob/main/cloud.gif" height="150" align="right" /> -->
 
 <p>
     I am a computer science student from IPB University. <br>
