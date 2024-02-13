@@ -42,4 +42,4 @@
 
 
 ### Leetcode Stats  
-![](https://leetcard.jacoblin.cool/gemm123?ext=activity)
+![](https://leetcard.jacoblin.cool/gemm123)
