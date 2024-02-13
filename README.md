@@ -41,5 +41,5 @@
 <br/>  
 
 
-### Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=gemm123&show_icons=true&count_private=true&hide_border=true" align="left" />  
+### Leetcode Stats  
+![](https://leetcard.jacoblin.cool/gemm123?ext=activity)
