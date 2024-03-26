@@ -41,5 +41,5 @@
 <br/>  
 
 
-### Leetcode Stats  
-![](https://leetcard.jacoblin.cool/gemm123)
+### Leetcode Stats
+![](https://leetcard.jacoblin.cool/gemm123?ext=heatmap)
