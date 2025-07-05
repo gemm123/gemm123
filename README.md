@@ -8,7 +8,7 @@
     Very passionate about build application and still exploring AI field.  
 </p>
 
-
+<!--
 ### My Programming Language and Skill Set 
 
 <div align="left">    
