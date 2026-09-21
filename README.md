@@ -1,42 +1,32 @@
-## <div align="left">Hi i'm Muchammad Gema Akbar 👨‍💻 </div>  
+# Hi, I'm Gema 👋
 
+Backend-focused Software Engineer based in Indonesia.
 
-<!-- <img alt="cloud" src="https://github.com/gemm123/gemm123/blob/main/cloud.gif" height="150" align="right" /> -->
+I build reliable APIs and web applications, primarily using Go and Python.
+I'm currently exploring AI engineering, LLM applications, and scalable
+backend architecture.
 
-<p>
-    I am a Software Engineer especially in Backend. <br>
-    Very passionate about build application and still exploring AI field.  
-</p>
+## What I work with
 
-<!--
-### My Programming Language and Skill Set 
+- Languages: Go, Python, TypeScript, JavaScript
+- Backend: FastAPI, REST APIs, authentication, databases
+- AI: LLM applications, chatbots, model integration
+- Tools: Git, Docker, Linux
 
-<div align="left">    
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" /></a> 
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="30" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="30" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" /></a> 
-</div>
-</td><td valign="top" width="33%">
+## My products
 
-<br/>  
+### [Lajur](https://lajur.online)
+A brief sentence explaining what it does, who it helps, and the main
+technologies used.
 
-<!--
-### Connect with me  
-<a href="https://twitter.com/gemaakbar07" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/gemaakbar07/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/gemaakbar07/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>    
+## Currently
 
-<br/>  
--->
+- 🔨 Building backend and AI-powered applications
+- 🌱 Learning production LLM systems and system design
+- 💬 Open to collaborating on Go, Python, and AI projects
 
-### Leetcode Stats
-![](https://leetcard.jacoblin.cool/gemm123)
+## Connect with me
+
+- [Website](https://gemaakbar.my.id)
+- [LinkedIn](https://www.linkedin.com/in/gemaakbar07/)
+- [LeetCode](https://leetcode.com/gemm123/)
