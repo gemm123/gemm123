@@ -16,8 +16,6 @@ backend architecture.
 ## My products
 
 ### [Lajur](https://lajur.online)
-A brief sentence explaining what it does, who it helps, and the main
-technologies used.
 
 ## Currently
 
